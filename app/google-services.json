@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779294549281",
+    "firebase_url": "https://announcements-81d46-default-rtdb.firebaseio.com",
+    "project_id": "announcements-81d46",
+    "storage_bucket": "announcements-81d46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779294549281:android:bc04d978b37c5dbabcca60",
+        "android_client_info": {
+          "package_name": "com.example.announcements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779294549281-iop6ii7h4hohq4ob8cqq2a08v2j9r91p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWawLzowMpcmTPOXiyjWIyJ8g3zm9RFoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779294549281-iop6ii7h4hohq4ob8cqq2a08v2j9r91p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
